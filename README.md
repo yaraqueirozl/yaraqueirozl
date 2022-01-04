@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning front-end
 - ♀️ Pronouns: ela/dela
 
-<div align="center">
+##
+
+<div align="left">
   <a href="https://github.com/yaraqueirozl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaraqueirozl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaraqueirozl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaraqueirozl&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaraqueirozl&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
   ##
