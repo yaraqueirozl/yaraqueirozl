@@ -1,7 +1,7 @@
 ### Hi there 😊
 
 
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently working on front-end
 - ♀️ Pronouns: ela/dela
 
 ##
